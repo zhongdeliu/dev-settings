@@ -1,4 +1,9 @@
-dev-settings
-============
+# dev-settings
 
-Basic/empty settings for any project
+Basic/empty settings (git and jshint) for any project
+
+
+## License
+
+The MIT License (MIT)
+Copyright (c) 2014 zhongdeliu
