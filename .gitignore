@@ -1,2 +1,13 @@
 _*
+~*
+\#*
+.\#*
+.DS_Store
+.settings
+.buildpath
+.project
+.tmp_*
+.idea
+*.iml
+
 node_modules
