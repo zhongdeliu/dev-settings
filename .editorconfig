@@ -12,6 +12,3 @@ insert_final_newline = true
 [*.{md,markdown}]
 # Allow <br/> from Markdown
 trim_trailing_whitespace = false
-
-[Makefile]
-indent_style = tab
